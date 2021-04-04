@@ -1,0 +1,14 @@
+.ListItems {
+    width: 300px;
+}
+.ListItems span {
+    display: inline-block;
+    padding: 10px;
+    border-bottom: 1px solid #653215;
+    width: 200px;
+    margin-right: 10px;
+}
+
+.ListItems span:hover {
+    cursor: pointer;
+}
